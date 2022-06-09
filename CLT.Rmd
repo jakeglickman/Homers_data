@@ -105,4 +105,3 @@ sample36sd <- sd(x.avg)
 
 The mean with 36 samples is `r sample36mean` and the standard deviation is `r sample36sd`.
 
-
